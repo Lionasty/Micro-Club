@@ -1,5 +1,4 @@
-var arr = [-3, 8, 7, 6, 5, -4, 3, 2, 1];
-var i, j, n;
+var i, j, n, arr = [-3, 8, 7, 6, 5, -4, 3, 2, 1];
 for (n = 0; n < arr.length-1; n++) {
     j = n;
     for (i = n + 1; i < arr.length; i++) {
